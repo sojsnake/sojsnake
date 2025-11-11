@@ -27,7 +27,4 @@
         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sojsnake&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
           /> </div> 
     </div>
-
-    [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={sosom})](https://solved.ac/{sosom})
     
